@@ -4,7 +4,7 @@ import { Code2, Layout, Zap, Cpu, PenTool, TestTube } from 'lucide-react';
 
 const skills = [
   { icon: <Layout />, title: 'UI Engineering', items: ['React', 'Next.js', 'Tailwind', 'Shadcn UI'] },
-  { icon: <Code2 />, title: 'TypeScript', items: ['Types', Generics, 'Zod', 'tRPC'] },
+  { icon: <Code2 />, title: 'TypeScript', items: ['Types', 'Generics', 'Zod', 'tRPC'] },
   { icon: <Zap />, title: 'Motion', items: ['Framer Motion', 'GSAP', 'Lottie'] },
   { icon: <Cpu />, title: 'Backend', items: ['Node', 'FastAPI', 'MongoDB'] },
   { icon: <PenTool />, title: 'Design', items: ['Figma', 'Prototyping', 'Design Systems'] },
